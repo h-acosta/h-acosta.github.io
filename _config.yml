@@ -1,0 +1,12 @@
+# Site settings
+title: Hector troll
+email: hector_acost@hotmail.com
+description: este es mi blogtroll.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+twitter_username: ha_Acost
+github_username:  h-acosta
+
+# Build settings
+markdown: kramdown
